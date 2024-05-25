@@ -20,7 +20,7 @@ const config = {
     dev: '',
     website: 'https://unitedcyberteam.com',
     phone: '+6289530656600',
-    email: 'asep@antei.codes',
+    email: 'liyabaanuata4@gmail.com',
   },
   skills: [
     'Python',
@@ -28,6 +28,7 @@ const config = {
     'PHP',
     'JavaScript',
     'MySQL',
+    'Bash',
     'Git',
   ],
   education: [

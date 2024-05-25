@@ -20,7 +20,7 @@ const config = {
     dev: '',
     website: 'https://krypton-byte.com',
     phone: '+6283172366463',
-    email: 'krypton@antei.codes',
+    email: 'asep@antei.codes',
   },
   skills: [
     'Python',

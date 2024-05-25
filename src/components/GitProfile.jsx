@@ -203,15 +203,15 @@ const GitProfile = ({ config }) => {
                 <div className="card compact bg-base-100 shadow">
                   <a
                     className="card-body"
-                    href="https://github.com/arifszn/gitprofile"
+                    href="https://unitedcyberteam.com"
                     target="_blank"
                     rel="noreferrer"
                   >
                     <div>
                       <p className="font-mono text-sm">
                         Made with{' '}
-                        <span className="text-primary">GitProfile</span> and ❤️
-                      </p>
+                        <span className="text-primary">AsepitgansXc</span> and Xsari
+            </p>
                     </div>
                   </a>
                 </div>

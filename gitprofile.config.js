@@ -13,13 +13,13 @@ const config = {
   social: {
     linkedin: '',
     twitter: '',
-    facebook: 'kryptonbyte.5',
+    facebook: '',
     dribbble: '',
     behance: '',
     medium: '',
     dev: '',
-    website: 'https://krypton-byte.com',
-    phone: '+6283172366463',
+    website: 'https://unitedcyberteam.com',
+    phone: '+6289530656600',
     email: 'asep@antei.codes',
   },
   skills: [
@@ -32,13 +32,13 @@ const config = {
   ],
   education: [
     {
-      institution: 'SMPN 2 DAWUAN',
+      institution: 'SMP N 3 CIANJUR',
       degree: 'Junior High School',
       from: '2016',
       to: '2019',
     },
     {
-      institution: 'SMKN 1 Panyingkiran',
+      institution: 'SMK AL-IDZAR',
       degree: 'Vocational High School',
       from: '2019',
       to: '2022',
